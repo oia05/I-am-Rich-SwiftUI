@@ -1,1 +1,1 @@
-# I-am-Rick-SwiftUI
+# I-am-Rich-SwiftUI
